@@ -3,7 +3,7 @@
   "resources": [
     {
       "@id": "https://github.com/BlueOceanIOT/BlueOceanIOTNuget/blob/main/N2KClassLibrary.1.0.0.nupkg",
-      "@type": "PackageBaseAddress/3.0.0",
+      "@type": "PackageBaseAddress/1.0.0",
       "comment": "Base URL of Azure storage where NuGet package registration info for NET Core is stored, in the format https://api.nuget.org/v3-flatcontainer/{id-lower}/{id-lower}.{version-lower}.nupkg"
     }
   ]
