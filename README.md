@@ -1,2 +1,4 @@
 # BlueOceanIOTNuget
-nugt packages for common BlueOceanIOT 
+nuget packages for common BlueOceanIOT 
+
+This a company public store
